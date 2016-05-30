@@ -1,0 +1,6 @@
+Python 2.7.6
+
+#Pre required libraries
+
+djnagorestframework (pip install djangorestframework)
+pygments (pip install pygments)
