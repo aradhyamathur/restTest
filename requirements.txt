@@ -1,6 +1,4 @@
-Python 2.7.6
+django 1.9.6
 
-#Pre required libraries
-
-djnagorestframework (pip install djangorestframework)
-pygments (pip install pygments)
+djnagorestframework == 3.3.3
+pygments == 2.1.3
